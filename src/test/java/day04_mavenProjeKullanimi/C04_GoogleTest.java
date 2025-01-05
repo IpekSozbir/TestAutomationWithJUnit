@@ -44,6 +44,5 @@ public class C04_GoogleTest {
         //5- Sayfayi kapatin
         ReusableMethods.bekle(1);
         driver.quit();
-
     }
 }

@@ -49,6 +49,5 @@ public class C02_OzelWebDriverVerilirse {
         // sayfayi kapatin
         ReusableMethods.bekle(2);
         driver.quit();
-
     }
 }

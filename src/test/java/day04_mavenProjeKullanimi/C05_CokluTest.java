@@ -31,6 +31,5 @@ public class C05_CokluTest {
 
         // sayfayi kapatin
         driver.quit();
-
     }
 }

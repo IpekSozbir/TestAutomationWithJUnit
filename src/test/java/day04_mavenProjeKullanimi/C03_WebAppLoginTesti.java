@@ -82,6 +82,5 @@ public class C03_WebAppLoginTesti {
         // sayfayi kapatin
         ReusableMethods.bekle(3);
         driver.quit();
-
     }
 }

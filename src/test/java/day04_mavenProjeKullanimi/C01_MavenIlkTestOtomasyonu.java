@@ -38,6 +38,5 @@ public class C01_MavenIlkTestOtomasyonu {
         // sayfayi kapatin
         ReusableMethods.bekle(3);
         driver.quit();
-
     }
 }
